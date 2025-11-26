@@ -1,4 +1,4 @@
-\# Huy Nguyen Gia Le
+\# Simon Kassa
 
 \# Review sprint 2
 
